@@ -182,9 +182,3 @@ It prints `PASS` or `FAIL` for 31 checks and exits with code 1 if any fail:
 - Database storage (a new `TicketRepository`)
 - Move the console menu out of `Main` into its own UI class
 - EV charging spots, reservations, lost-ticket handling
-
-## Pre-submission checklist
-
-- [ ] `git status` shows nothing left to commit
-- [ ] Every file, including `README.md`, is visible on GitHub with its real content
-- [ ] A fresh `git clone` into a new folder compiles and runs (`Main` and `ParkingLotTests`)
